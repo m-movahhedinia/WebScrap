@@ -1,10 +1,4 @@
-from urllib import request
-from bs4 import BeautifulSoup
-import re
-from builtins import print
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-import time
+
 
 """
 The source for the very first version of the web scrapper app.
