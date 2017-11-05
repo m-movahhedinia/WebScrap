@@ -1,2 +1,2 @@
-# Strigil
-I will add this when project is complete.
+# WebScrap
+A simple web scrapper created in python.
