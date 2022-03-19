@@ -2,7 +2,7 @@ from builtins import print
 from selenium import webdriver
 
 """
-The source for the very first version of the web scrapper for Mr. Nanda Kumar's project.
+The source for the very first version of the web scrapper.
 No classes or functions. Just codes.
 Part 2: This part gathers the information from the links gathered in part 1.
 """
